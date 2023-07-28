@@ -104,13 +104,18 @@ section {
     height:60px;
     bottom:70px;
     right:40px;
-    background-color:#14f868;
-    color:#FFF;
-    border-radius:30px;
+    /*background-color:#14f868;*/
+    /*color:#FFF;*/
+    /*border-radius:30px;*/
     text-align:center;
-    font-size:37px;
-    box-shadow: 1px 1px 2px #888;
+    /*font-size:40px;*/
+    /*box-shadow: 1px 1px 2px #888;*/
     z-index:1000;
+}
+
+.imgZap{
+    border-radius: 50px;
+    width: 65px;
 }
 
 
