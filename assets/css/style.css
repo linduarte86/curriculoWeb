@@ -100,7 +100,7 @@ section {
 
 .linkZap{
     position:fixed;
-    width:60px;
+    width:0px;
     height:60px;
     bottom:70px;
     right:40px;
