@@ -105,11 +105,11 @@ section {
     bottom:70px;
     right:40px;
     background-color:#14f868;
-    color:#FFF;
+    /*color:#FFF;*/
     border-radius:50px;
     text-align:center;
     font-size:37px;
-    box-shadow: 1px 1px 2px #888;
+    /*box-shadow: 1px 1px 2px #888;*/
     z-index:1000;
 }
 
