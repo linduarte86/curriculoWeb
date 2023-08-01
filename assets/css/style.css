@@ -53,8 +53,7 @@ section {
 }
 
 .avatar {
-    border: 3px solid #c5a47e;
-    border-radius: 50%;
+    border-radius: 5px;
     overflow: hidden;
     max-width: 110px;
     margin: 0 auto;
@@ -66,7 +65,7 @@ section {
 }
 
 .avatar-danger {
-    border-color: #e78b90;
+    border-color: #a36d70;
 }
 
 .img-circle.img-profile {
